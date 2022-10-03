@@ -1,0 +1,15 @@
+body{
+    background: fixed radial-gradient(blue, gray);
+}
+
+.box {
+    font: normal 18pt Arial; 
+    width: 650px;
+    height: 350px;
+    background: fixed radial-gradient(white, blue);
+    color: black;
+    position: absolute;
+    text-align: center;
+    margin-left: 370px;
+    margin-top: 150px;
+}

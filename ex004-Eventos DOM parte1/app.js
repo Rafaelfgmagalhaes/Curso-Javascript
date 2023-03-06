@@ -1,4 +1,4 @@
-function clicar(){
+ function clicar(){
     var a = document.getElementById('area')
     a.innerText = 'clicou!';
     a.style.background = 'red';

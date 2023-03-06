@@ -10,4 +10,3 @@ d.style.background = 'green'
 
 var e = document.querySelector('h1#teste')
 e.style.background = 'gray'
-
